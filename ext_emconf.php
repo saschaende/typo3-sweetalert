@@ -1,7 +1,7 @@
 <?php
 
 $EM_CONF[$_EXTKEY] = array (
-  'title' => 'Top',
+  'title' => 'Sweetalert 2',
   'description' => 'A BEAUTIFUL, RESPONSIVE, CUSTOMIZABLE, ACCESSIBLE (WAI-ARIA) REPLACEMENT FOR JAVASCRIPTS POPUP BOXES',
   'category' => 'plugin',
   'author' => 'Sascha Ende',
@@ -10,7 +10,7 @@ $EM_CONF[$_EXTKEY] = array (
   'uploadfolder' => false,
   'createDirs' => '',
   'clearCacheOnLoad' => 0,
-  'version' => '7.26.12',
+  'version' => '7.26.13',
   'constraints' => 
   array (
     'depends' => 
