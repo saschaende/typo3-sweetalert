@@ -2,6 +2,9 @@
 
 A BEAUTIFUL, RESPONSIVE, CUSTOMIZABLE, ACCESSIBLE (WAI-ARIA) REPLACEMENT FOR JAVASCRIPT'S POPUP BOXES
 
+Extension Repository on typo3.org:
+https://extensions.typo3.org/extension/sweetalert/
+
 Forked from 
 https://sweetalert2.github.io/
 
