@@ -1,23 +1,23 @@
 <?php
 
 $EM_CONF[$_EXTKEY] = array (
-  'title' => 'Sweetalert 2',
-  'description' => 'A BEAUTIFUL, RESPONSIVE, CUSTOMIZABLE, ACCESSIBLE (WAI-ARIA) REPLACEMENT FOR JAVASCRIPTS POPUP BOXES',
+  'title' => 'Sweetalert',
+  'description' => 'SweetAlert makes popup messages easy and pretty. Includes Sweetalert 2.1.0',
   'category' => 'plugin',
-  'author' => 'Sascha Ende',
-  'author_email' => 'sascha@sascha-ende.de',
+  'author' => 'Filmmusic.io',
+  'author_email' => 'info@filmmusic.io',
   'state' => 'stable',
   'uploadfolder' => false,
   'createDirs' => '',
   'clearCacheOnLoad' => 0,
-  'version' => '7.26.13',
+  'version' => '9.5.5',
   'constraints' => 
   array (
     'depends' => 
     array (
-      'typo3' => '7.6.13-8.7.99',
+      'typo3' => '7.6.13-9.5.99',
     ),
-    'conflicts' => 
+    'conflicts' =>
     array (
     ),
     'suggests' => 
@@ -25,6 +25,6 @@ $EM_CONF[$_EXTKEY] = array (
     ),
   ),
   'clearcacheonload' => true,
-  'author_company' => 'weebster GbR',
+  'author_company' => 'Filmmusic.io',
 );
 

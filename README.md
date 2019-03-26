@@ -6,7 +6,7 @@ Extension Repository on typo3.org:
 https://extensions.typo3.org/extension/sweetalert/
 
 Forked from 
-https://sweetalert2.github.io/
+https://sweetalert.js.org/
 
 ## Dependencies
 
@@ -41,4 +41,4 @@ swal({
 ```
 
 Find more on:
-https://sweetalert2.github.io/
+https://sweetalert.js.org/
